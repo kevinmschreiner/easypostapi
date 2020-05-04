@@ -1,0 +1,11 @@
+C:\Users\kevin\source\repos\easypostapi\bin\Release\EasyPost.Light.dll.config
+C:\Users\kevin\source\repos\easypostapi\bin\Release\EasyPost.Light.dll
+C:\Users\kevin\source\repos\easypostapi\bin\Release\EasyPost.Light.pdb
+C:\Users\kevin\source\repos\easypostapi\bin\Release\Newtonsoft.Json.dll
+C:\Users\kevin\source\repos\easypostapi\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\kevin\source\repos\easypostapi\bin\Release\Newtonsoft.Json.xml
+C:\Users\kevin\source\repos\easypostapi\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\kevin\source\repos\easypostapi\obj\Release\EasyPost.Light.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\easypostapi\obj\Release\EasyPost.Light.csproj.CopyComplete
+C:\Users\kevin\source\repos\easypostapi\obj\Release\EasyPost.Light.dll
+C:\Users\kevin\source\repos\easypostapi\obj\Release\EasyPost.Light.pdb

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <!-- Required elements-->
+        <id>EasyPost.Light</id>
+        <version>0.0.0.1</version>
+        <description>A light weight EasyPost client</description>
+        <authors>kevinmschreiner</authors>
+        <license type="expression">MIT</license>
+		    <repository type="git" url="https://github.com/kevinmschreiner/easypostapi.git" branch="master" commit="535630820e380247b883b76709de187d9619d6ae" />
+		<dependencies>
+      <group targetFramework=".NETFramework4.6.1">
+        <dependency id="Microsoft.AspNet.WebApi.Client" version="5.2.7" />
+        <dependency id="Newtonsoft.Json" version="6.0.4" />
+      </group>
+		</dependencies>
+    </metadata>
+  <files>
+    <file src="bin\release\easypost.light.dll" target="lib\net461"/>
+    <file src="bin\release\easypost.light.dll.config" target="lib\net461"/>
+    <file src="bin\release\easypost.light.pdb" target="lib\net461"/>
+  </files>
+</package>
