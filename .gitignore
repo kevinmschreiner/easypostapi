@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/EasyPost.Light/v16/Server/sqlite3
+/.vs
+/bin/Debug
+/obj/Debug
+/packages
