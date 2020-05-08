@@ -49,6 +49,7 @@
     <Compile Include="Library\CustomsInfo.cs" />
     <Compile Include="Library\CustomsItem.cs" />
     <Compile Include="Library\Error.cs" />
+    <Compile Include="Library\Event.cs" />
     <Compile Include="Library\Fee.cs" />
     <Compile Include="Library\Form.cs" />
     <Compile Include="Library\Insurance.cs" />
