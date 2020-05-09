@@ -45,12 +45,17 @@
     <Compile Include="Client.cs" />
     <Compile Include="Library\Address.cs" />
     <Compile Include="Library\BaseDefinition.cs" />
+    <Compile Include="Library\Batch.cs" />
+    <Compile Include="Library\BatchShipment.cs" />
+    <Compile Include="Library\CarrierAccount.cs" />
     <Compile Include="Library\CarrierDetail.cs" />
     <Compile Include="Library\CustomsInfo.cs" />
     <Compile Include="Library\CustomsItem.cs" />
     <Compile Include="Library\Error.cs" />
     <Compile Include="Library\Event.cs" />
     <Compile Include="Library\Fee.cs" />
+    <Compile Include="Library\Field.cs" />
+    <Compile Include="Library\Fields.cs" />
     <Compile Include="Library\Form.cs" />
     <Compile Include="Library\Insurance.cs" />
     <Compile Include="Library\Insurances.cs" />
@@ -60,8 +65,12 @@
     <Compile Include="Library\Orders.cs" />
     <Compile Include="Library\Parcel.cs" />
     <Compile Include="Library\Payment.cs" />
+    <Compile Include="Library\PickUp.cs" />
+    <Compile Include="Library\PickupRate.cs" />
     <Compile Include="Library\PostageLabel.cs" />
     <Compile Include="Library\Rate.cs" />
+    <Compile Include="Library\Report.cs" />
+    <Compile Include="Library\Reports.cs" />
     <Compile Include="Library\ScanForm.cs" />
     <Compile Include="Library\Shipment.cs" />
     <Compile Include="Library\Shipments.cs" />
@@ -71,6 +80,14 @@
     <Compile Include="Library\Trackers.cs" />
     <Compile Include="Library\Verifications.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\AddressService.cs" />
+    <Compile Include="Services\BaseService.cs" />
+    <Compile Include="Services\InsuranceService.cs" />
+    <Compile Include="Services\ParcelService.cs" />
+    <Compile Include="Services\PickupService.cs" />
+    <Compile Include="Services\ReportService.cs" />
+    <Compile Include="Services\ShipmentService.cs" />
+    <Compile Include="Services\TrackerService.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
