@@ -8,3 +8,5 @@ C:\Users\kevin\source\repos\easypostapi\bin\Release\System.Net.Http.Formatting.x
 C:\Users\kevin\source\repos\easypostapi\obj\Release\EasyPost.Light.csproj.CopyComplete
 C:\Users\kevin\source\repos\easypostapi\obj\Release\EasyPost.Light.dll
 C:\Users\kevin\source\repos\easypostapi\obj\Release\EasyPost.Light.pdb
+C:\Users\kevin\source\repos\easypostapi\obj\Release\EasyPost.Light.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\easypostapi\obj\Release\EasyPost.Light.csproj.CoreCompileInputs.cache

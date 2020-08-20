@@ -3,7 +3,7 @@
     <metadata>
         <!-- Required elements-->
         <id>EasyPost.Light</id>
-        <version>0.0.1.0</version>
+        <version>0.0.2.0</version>
         <description>A light weight EasyPost client</description>
         <authors>kevinmschreiner</authors>
         <license type="expression">MIT</license>
