@@ -3,11 +3,12 @@
     <metadata>
         <!-- Required elements-->
         <id>EasyPost.Light</id>
-        <version>0.0.2.0</version>
+        <version>0.0.3.0</version>
         <description>A light weight EasyPost client</description>
         <authors>kevinmschreiner</authors>
         <license type="expression">MIT</license>
 		    <repository type="git" url="https://github.com/kevinmschreiner/easypostapi.git" branch="master" commit="535630820e380247b883b76709de187d9619d6ae" />
+        <imageUrl>icon.png</imageUrl>
 		<dependencies>
       <group targetFramework=".NETFramework4.6.1">
         <dependency id="Microsoft.AspNet.WebApi.Client" version="5.2.7" />
