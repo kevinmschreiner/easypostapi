@@ -15,6 +15,7 @@ namespace EasyPost.Light.Services
         #region "Request Building"
         protected System.Net.Http.HttpClient GetHttpClient() //string url
         {
+            System.Net.ServicePointManager.SecurityProtocol = System.Net.SecurityProtocolType.Tls12;
             System.Net.Http.HttpClient client = new System.Net.Http.HttpClient();
             client.BaseAddress = new Uri(url);
             client.DefaultRequestHeaders.Accept.Clear();
