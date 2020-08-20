@@ -8,7 +8,7 @@
         <authors>kevinmschreiner</authors>
         <license type="expression">MIT</license>
 		    <repository type="git" url="https://github.com/kevinmschreiner/easypostapi.git" branch="master" commit="535630820e380247b883b76709de187d9619d6ae" />
-        <imageUrl>icon.png</imageUrl>
+        <icon>icon.png</icon>
 		<dependencies>
       <group targetFramework=".NETFramework4.6.1">
         <dependency id="Microsoft.AspNet.WebApi.Client" version="5.2.7" />
@@ -20,5 +20,6 @@
     <file src="bin\release\easypost.light.dll" target="lib\net461"/>
     <file src="bin\release\easypost.light.dll.config" target="lib\net461"/>
     <file src="bin\release\easypost.light.pdb" target="lib\net461"/>
+    <file src="icon.png" target=""/>
   </files>
 </package>
