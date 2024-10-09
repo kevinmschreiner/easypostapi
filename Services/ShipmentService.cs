@@ -38,8 +38,8 @@ namespace EasyPost.Light.Services
             string body = "";
             AppendVariable("before_id", before_id, false, ref body);
             AppendVariable("after_id", after_id, false, ref body);
-            AppendVariable("start_datetime", start_datetime, false, ref body);
-            AppendVariable("end_datetime", end_datetime, false, ref body);
+            AppendVariable("start_datetime", start_datetime, false, ref body, true);
+            AppendVariable("end_datetime", end_datetime, false, ref body, true);
             AppendVariable("page_size", page_size, false, ref body);
             AppendVariable("purchased", purchased, false, ref body);
             AppendVariable("include_children", include_children, false, ref body);

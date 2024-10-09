@@ -569,7 +569,7 @@ namespace EasyPost.Light.Services
                 if (!dateonly)
                     body = name + "=" + value.Value.ToString();
                 else
-                    body = name + "=" + value.Value.ToString("yyyy-MM-dd");
+                    body = name + "=" + value.Value.ToString("yyyy-MM-ddTHH:mm:00Z");
             }
             else if (alwaysinclude)
             {

@@ -13,8 +13,8 @@
 
             public class VerificationDetails
             {
-                public decimal latitude;
-                public decimal longitude;
+                public string latitude;
+                public string longitude;
                 public string time_zone;
             }
         }

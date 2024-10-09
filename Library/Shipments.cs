@@ -3,6 +3,6 @@
     public class Shipments
     {
         public Shipment[] shipments;
-        bool has_more;
+        public bool has_more;
     }
 }

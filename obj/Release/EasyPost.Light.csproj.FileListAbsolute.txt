@@ -9,4 +9,3 @@ C:\Users\kevin\source\repos\easypostapi\obj\Release\EasyPost.Light.csproj.CopyCo
 C:\Users\kevin\source\repos\easypostapi\obj\Release\EasyPost.Light.dll
 C:\Users\kevin\source\repos\easypostapi\obj\Release\EasyPost.Light.pdb
 C:\Users\kevin\source\repos\easypostapi\obj\Release\EasyPost.Light.csproj.CoreCompileInputs.cache
-C:\Users\kevin\source\repos\easypostapi\obj\Release\EasyPost.Light.csprojAssemblyReference.cache
